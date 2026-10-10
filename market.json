@@ -5,70 +5,70 @@
       {
         "coinId": "pons",
         "ticker": "PONS",
-        "current": 0.33915,
+        "current": 0.346657,
         "ath": 0.971034,
-        "updatedAt": "2026-10-09T20:06:53.000Z"
+        "updatedAt": "2026-10-10T00:00:53.000Z"
       },
       {
         "coinId": "bankercoin-2",
         "ticker": "BNKR",
-        "current": 0.00031749,
+        "current": 0.00032374,
         "ath": 0.00120094,
-        "updatedAt": "2026-10-09T20:06:53.000Z"
+        "updatedAt": "2026-10-10T00:00:53.000Z"
       },
       {
         "coinId": "virtual-protocol",
         "ticker": "VIRTUAL",
-        "current": 0.704168,
+        "current": 0.728647,
         "ath": 5.07,
-        "updatedAt": "2026-10-09T20:06:53.000Z"
+        "updatedAt": "2026-10-10T00:00:53.000Z"
       },
       {
         "coinId": "tokenbot-2",
         "ticker": "CLANKER",
-        "current": 13.05,
+        "current": 13.27,
         "ath": 142.84,
-        "updatedAt": "2026-10-09T20:06:53.000Z"
+        "updatedAt": "2026-10-10T00:00:53.000Z"
       },
       {
         "coinId": "the-arena",
         "ticker": "ARENA",
-        "current": 0.0007527,
+        "current": 0.00075302,
         "ath": 0.02660259,
-        "updatedAt": "2026-10-09T20:06:53.000Z"
+        "updatedAt": "2026-10-10T00:00:53.000Z"
       },
       {
         "coinId": "polkastarter",
         "ticker": "POLS",
-        "current": 0.057885,
+        "current": 0.05743,
         "ath": 7.51,
-        "updatedAt": "2026-10-09T20:06:53.000Z"
+        "updatedAt": "2026-10-10T00:00:53.000Z"
       },
       {
         "coinId": "ben-pasternak",
         "ticker": "BELIEVE",
-        "current": 0.00354965,
+        "current": 0.00338607,
         "ath": 0.356908,
-        "updatedAt": "2026-10-09T20:06:53.000Z"
+        "updatedAt": "2026-10-10T00:00:53.000Z"
       },
       {
         "coinId": "boop-4",
         "ticker": "BOOP",
-        "current": 0.00441198,
+        "current": 0.00441489,
         "ath": 0.415986,
-        "updatedAt": "2026-10-09T20:06:53.000Z"
+        "updatedAt": "2026-10-10T00:00:53.000Z"
       },
       {
         "coinId": "pump-fun",
         "ticker": "PUMP",
-        "current": 0.00528418,
+        "current": 0.00545896,
         "ath": 0.00881908,
-        "updatedAt": "2026-10-09T20:06:53.000Z"
+        "updatedAt": "2026-10-10T00:00:53.000Z"
       }
     ]
   },
-  "checkedAt": "2026-10-09T20:07:43.789Z",
-  "nextRefreshAt": "2026-10-09T21:07:43.789Z",
+  "checkedAt": "2026-10-10T00:01:26.624Z",
+  "nextRefreshAt": "2026-10-10T01:01:26.624Z",
   "intervalMs": 3600000,
   "status": "cached"
 }
